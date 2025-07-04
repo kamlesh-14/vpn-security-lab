@@ -2,7 +2,7 @@
 # ProtonVPN Encryption and IP Masking Test
 
 ## Objective
-Demonstrate how ProtonVPN protects user data by encrypting traffic and masking IP addresses.
+Demonstrated how ProtonVPN protects user data by encrypting traffic and masking IP addresses.
 
 ## Tools Used
 - ProtonVPN (Free Version)
@@ -38,4 +38,4 @@ Demonstrate how ProtonVPN protects user data by encrypting traffic and masking I
 ## Screenshots
 -  IP before and after VPN
 -  Browser HTTPS encryption
--  Speed comparison (optional)
+
